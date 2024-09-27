@@ -1,0 +1,5 @@
+com\kaiqueps\pratica01\Program.class
+com\kaiqueps\pratica01\models\entities\GerenciadorDeConexaoComBancoDeDados.class
+com\kaiqueps\pratica01\models\entities\Pessoa.class
+com\kaiqueps\pratica01\models\entities\TransferenciaEntreContas.class
+com\kaiqueps\pratica01\models\entities\Conta.class
